@@ -1,0 +1,7 @@
+output.tf
+.terraform/
+input.tfvars
+terraform.code-workspace
+terraform.tfstate
+terraform.tfstate.backup
+variables.tf
